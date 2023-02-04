@@ -115,7 +115,7 @@ El contenido de la página HTML se ha guardado como una template string, o una s
 
 Escribir HTML en medio del código, por supuesto, no es inteligente, pero para los programadores PHP de la vieja escuela era una práctica normal.
 
-En las aplicaciones web tradicionales, el navegador es "tonto". Solo obtiene datos HTML del servidor y toda la lógica de la aplicación está en el servidor. Se puede crear un servidor, por ejemplo, usando Java Spring como en el curso de la Universidad de Helsinki [Web-palvelinohjelmointi](https://courses.helsinki.fi/fi/tkt21007/119558639), Python Flask (como en el curso [tietokantasovellus](https://materiaalit.github.io/tsoha-18/)) o con [Ruby on Rails](http://rubyonrails.org/).
+En las aplicaciones web tradicionales, el navegador es "tonto". Solo obtiene datos HTML del servidor y toda la lógica de la aplicación está en el servidor. Se puede crear un servidor, por ejemplo, usando Java Spring (como en el curso de la Universidad de Helsinki [Web-palvelinohjelmointi](https://courses.helsinki.fi/fi/tkt21007/119558639)), Python Flask (como en el curso [tietokantasovellus](https://materiaalit.github.io/tsoha-18/)) o con [Ruby on Rails](http://rubyonrails.org/).
 
 El ejemplo usa [Express](https://expressjs.com/) de Node.js.
 Este curso utilizará Node.js y Express para crear servidores web.
